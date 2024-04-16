@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  :root {
+    --primary-color: #318ce7;
+    --secondary-color: #95969b;
+    --heading-color: #12061d;
+    --text-color: #a3a3a3;
+    --font-name: "serif", sans-serif;
+    --subtitle-font-name: "Island Moments", cursive;
+  }
+  
